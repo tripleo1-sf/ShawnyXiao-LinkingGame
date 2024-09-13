@@ -5,5 +5,12 @@ This is a linking game, implemented in my first term of sophomore, as my homewor
 * JDK (>=1.6)
 
 # Its appearance
-![LinkingGame's picture](snapshot/LinkingGameDemo.gif)  
+![Animated gif of LinkingGame in action](snapshot/LinkingGameDemo.gif)  
 This video has been clipped, so that some fragments seem to disappeare. You could regard the computer as me. And I pray you to forgive me for that I'm so rude to you. Concrete details could be explored in higher level. Have fun with it~
+
+
+# Q's
+
+1. What font is this?
+
+2. Simple enough to pointless port everywhere.
