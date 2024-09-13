@@ -14,3 +14,16 @@ This video has been clipped, so that some fragments seem to disappeare. You coul
 1. What font is this?
 
 2. Simple enough to pointless port everywhere.
+
+
+# Everywhere
+
+1. Native image
+
+2. Something browsery
+
+3. Compose (desktop)
+
+4. Something mobile
+
+5. ??
